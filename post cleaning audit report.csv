@@ -1,0 +1,13 @@
+Column,Data_Type_After,Missing_Values_After,Unique_Values_After
+PassengerId,Int64,0,891
+Survived,Int64,0,2
+Pclass,Int64,0,3
+Name,object,0,891
+Sex,object,0,2
+Age,float64,0,89
+SibSp,Int64,0,7
+Parch,Int64,0,7
+Ticket,object,0,681
+Fare,float64,0,248
+Cabin,object,0,148
+Embarked,object,0,3
